@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "211277",
+    "password": "password",
     "database": "todo_rest_api",
     "host": "localhost",
     "dialect": "mysql"
